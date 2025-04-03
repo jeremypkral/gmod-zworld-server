@@ -1,0 +1,3 @@
+This public repository contains all my content related to hosting the "New Town Morrison" game server, which runs the Zworld-Afterlife gamemode in Garry's Mod. Including files developed for the server (Maps, Navmesh, DBs, Custom, Configuration, etc.), devlogs, and guides.
+
+Disclaimer: This repository does NOT contain the original gamemode files for Zworld-Afterlife developed by Nordahl. You can find the originals files at https://osgmod.com/gmod-scripts/3945/zworld-gamemode-single-multiplayer made for purchase.
